@@ -14,3 +14,8 @@ Netflix Movies/Shows
 --
 Dive into the world of Netflix entertainment with our comprehensive dataset! Explore a wide range of movies and shows, each with essential details like title, type, director, cast, country, release year, rating, and more. Whether you're analyzing trends or searching for your next binge-worthy watch, this dataset has you covered. Discover the richness of Netflix content in one convenient package!
 This dataset is ideal for researchers, analysts, and entertainment enthusiasts looking to explore trends, analyze content preferences, and gain insights into the vast library of Netflix offerings. Whether for academic research, market analysis, or personal interest, this dataset provides valuable information for a variety of purposes.
+
+Car Price Prediction
+---
+Explore the world of automobiles with our comprehensive Car Prediction Dataset! It includes crucial features like car ID, symboling, car name, fuel type, door number, body style, drivetrain, engine specs, MPG, and price. Ideal for predicting car prices, market analysis, and automotive research, this dataset offers valuable insights into vehicle specifications and market dynamics.
+This dataset is essential for researchers, analysts, and automotive enthusiasts seeking to predict car prices, analyze market trends, and delve into the details of various car models. Whether for machine learning, market research, or understanding automotive engineering, this dataset serves a multitude of purposes.
