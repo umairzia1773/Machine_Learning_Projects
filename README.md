@@ -9,3 +9,8 @@ Heart_Failure
 ---
 The dataset contains diverse medical attributes collected from individuals, including age, presence of anemia, levels of creatinine phosphokinase, diabetes status, ejection fraction, presence of high blood pressure, platelet count, serum creatinine level, serum sodium level, gender, smoking status, time, and death event (DEATH_EVENT), presumably indicating whether the individual experienced heart failure.
 The data is collected for analyzing the factors associated with heart failure occurrences. Research using this dataset may involve exploring correlations between various medical indicators and the likelihood of heart failure, as well as developing predictive models to identify individuals at higher risk of experiencing heart failure. Insights gained from this analysis could contribute to better understanding, prevention, and treatment of heart failure.
+
+Netflix Movies/Shows
+--
+Dive into the world of Netflix entertainment with our comprehensive dataset! Explore a wide range of movies and shows, each with essential details like title, type, director, cast, country, release year, rating, and more. Whether you're analyzing trends or searching for your next binge-worthy watch, this dataset has you covered. Discover the richness of Netflix content in one convenient package!
+This dataset is ideal for researchers, analysts, and entertainment enthusiasts looking to explore trends, analyze content preferences, and gain insights into the vast library of Netflix offerings. Whether for academic research, market analysis, or personal interest, this dataset provides valuable information for a variety of purposes.
