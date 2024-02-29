@@ -19,3 +19,7 @@ Car Price Prediction
 ---
 Explore the world of automobiles with our comprehensive Car Prediction Dataset! It includes crucial features like car ID, symboling, car name, fuel type, door number, body style, drivetrain, engine specs, MPG, and price. Ideal for predicting car prices, market analysis, and automotive research, this dataset offers valuable insights into vehicle specifications and market dynamics.
 This dataset is essential for researchers, analysts, and automotive enthusiasts seeking to predict car prices, analyze market trends, and delve into the details of various car models. Whether for machine learning, market research, or understanding automotive engineering, this dataset serves a multitude of purposes.
+
+World War-2 Ships Analysis
+--
+We're analyzing a dataset on World War 2 ships to understand their classes, countries of origin, launch years, and significant events. Our approach involves calculating statistics, visualizing data, exploring correlations, and addressing outliers and missing values. Ultimately, we seek to uncover insights into naval dynamics during this historic period.
