@@ -22,4 +22,8 @@ This dataset is essential for researchers, analysts, and automotive enthusiasts 
 
 World War-2 Ships Analysis
 --
-We're analyzing a dataset on World War 2 ships to understand their classes, countries of origin, launch years, and significant events. Our approach involves calculating statistics, visualizing data, exploring correlations, and addressing outliers and missing values. Ultimately, we seek to uncover insights into naval dynamics during this historic period.
+Analyzing a dataset on World War 2 ships to understand their classes, countries of origin, launch years, and significant events. Our approach involves calculating statistics, visualizing data, exploring correlations, and addressing outliers and missing values. Ultimately, we seek to uncover insights into naval dynamics during this historic period.
+
+Exploratory Data Analysis on Football Legends CR7 & Messi
+--
+
