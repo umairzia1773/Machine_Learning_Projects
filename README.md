@@ -26,4 +26,5 @@ Analyzing a dataset on World War 2 ships to understand their classes, countries 
 
 Exploratory Data Analysis on Football Legends CR7 & Messi
 --
-
+The dataset provides detailed information about Cristiano Ronaldo (CR7) and Lionel Messi's performances in various football seasons, competitions, matchdays, and venues. It includes data such as the clubs they played for, opponents, match results, playing positions, minutes played, goals scored, and assists provided. 
+The aim of this is to conduct exploratory data analysis (EDA) on the performances of these two renowned footballers. This analysis involve examining their goal-scoring patterns, performance in different positions, impact on match outcomes, and possibly comparing their performances against each other. Such analysis can offer insights into their playing styles, strengths, and contributions to their respective teams.
