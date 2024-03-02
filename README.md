@@ -24,7 +24,11 @@ World War-2 Ships Analysis
 --
 Analyzing a dataset on World War 2 ships to understand their classes, countries of origin, launch years, and significant events. Our approach involves calculating statistics, visualizing data, exploring correlations, and addressing outliers and missing values. Ultimately, we seek to uncover insights into naval dynamics during this historic period.
 
-Exploratory Data Analysis on Football Legends CR7 & Messi
+Exploratory Data Analysis on Football Legends CR7 & Lionel Messi
 --
 The dataset provides detailed information about Cristiano Ronaldo (CR7) and Lionel Messi's performances in various football seasons, competitions, matchdays, and venues. It includes data such as the clubs they played for, opponents, match results, playing positions, minutes played, goals scored, and assists provided. 
 The aim of this is to conduct exploratory data analysis (EDA) on the performances of these two renowned footballers. This analysis involve examining their goal-scoring patterns, performance in different positions, impact on match outcomes, and possibly comparing their performances against each other. Such analysis can offer insights into their playing styles, strengths, and contributions to their respective teams.
+
+Formula 1 EDA & Visuals
+--
+This project delves into Formula 1 racing through data science, utilizing machine learning for visualization and exploratory analysis (EDA). By acquiring and cleaning comprehensive datasets, exploring correlations, and creating insightful visualizations, it aims to uncover patterns in driver performance, track characteristics, and race outcomes. Optional predictive modeling may also be employed for advanced analysis. The project culminates in a documented report and presentation, offering valuable insights for Formula 1 enthusiasts, teams, and stakeholders.
