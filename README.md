@@ -32,3 +32,8 @@ The aim of this is to conduct exploratory data analysis (EDA) on the performance
 Formula 1 EDA & Visuals
 --
 This project delves into Formula 1 racing through data science, utilizing machine learning for visualization and exploratory analysis (EDA). By acquiring and cleaning comprehensive datasets, exploring correlations, and creating insightful visualizations, it aims to uncover patterns in driver performance, track characteristics, and race outcomes. Optional predictive modeling may also be employed for advanced analysis. The project culminates in a documented report and presentation, offering valuable insights for Formula 1 enthusiasts, teams, and stakeholders.
+
+Urban Traffic Analysis
+---
+
+---
