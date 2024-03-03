@@ -1,6 +1,6 @@
 # Machine_Learning_Projects
 
-Diabetes
+Diabetes Prediction
 --
 The dataset comprises various health-related parameters collected from individuals, including pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI (Body Mass Index), diabetes pedigree function, age, and diagnosis. Each row represents a unique individual, with the columns detailing their respective health attributes. The "Diagnosis" column indicates the presence or absence of diabetes.
 The data is collected for the purpose of studying the relationship between various health factors and the likelihood of diabetes. Analysis of this dataset may involve building predictive models to identify patterns and risk factors associated with diabetes onset, aiding in early detection, prevention, and management strategies.
@@ -35,5 +35,4 @@ This project delves into Formula 1 racing through data science, utilizing machin
 
 Urban Traffic Analysis
 ---
-
----
+The dataset comprises various urban traffic attributes, including city, vehicle type, weather conditions, economic status, day of the week, hour of the day, vehicle speed, peak hour designation, occurrence of random events, energy consumption, and traffic density. Through analysis, one can uncover trends in traffic patterns, assess the influence of weather and economic factors on traffic flow, identify peak traffic hours, examine energy consumption patterns, and understand the impact of random events on traffic congestion and behavior.
